@@ -1,0 +1,21 @@
+{
+  "name": "event-scraper",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sahiga/event-scraper",
+  "description": "Page event scraper",
+  "authors": [
+    "Stephanie A. Higa"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "~0.2.15"
+  }
+}
